@@ -1,1 +1,3 @@
-javascript:alert('Hello from external website!');
+javascript:(function() {
+alert('Hello from external website!');
+})();
