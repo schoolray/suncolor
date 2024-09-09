@@ -1,3 +1,3 @@
 javascript:(function() {
-alert('Hello from external website!');
+$('input[name="prodno"]').attr("checked",true);document.getElementById("addCart").click();
 })();
